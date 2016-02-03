@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,100,300,700,900);
+@import url(https://fonts.googleapis.com/css?family=Clicker+Script);
+
+h1{
+  font-weight:bold;
+  font-family: 'Clicker Script', cursive;
+  font-size: 100px;
+  color: olivedrab
+}
+
+h2 {
+  font-weight: bold;
+  font-family: 'Playfair Display', serif;
+  color: yellowgreen
+}
+
+body {
+  font-family: "raleway", sans-serif;
+  font-size: 20px;
+  color: lightslategrey;
+}
+
+#para1 {
+  font-weight: 100;
+  font-family: "raleway", sans-serif;
+}
+
+#para2 {
+  font-weight: 300;
+  font-family: "raleway", sans-serif;
+}
+
+#para3 {
+  font-weight: 700;
+  font-family: "raleway", sans-serif;
+}
+
+#para4 {
+  font-weight: 900;
+  font-family: "raleway", sans-serif;
+}
