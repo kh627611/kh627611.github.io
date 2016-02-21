@@ -6,37 +6,24 @@ h1{
   font-weight:bold;
   font-family: 'Clicker Script', cursive;
   font-size: 100px;
-  color: olivedrab
+  color: olivedrab;
+  width: 100%;
 }
 
 h2 {
   font-weight: bold;
   font-family: 'Playfair Display', serif;
-  color: yellowgreen
+  color: yellowgreen;
+  width: 23%;
+  float: left;
+  padding: 15px;
+  width: 23%;
+  float: left;
+  padding: 5px;
 }
 
 body {
   font-family: "raleway", sans-serif;
   font-size: 20px;
   color: lightslategrey;
-}
-
-#para1 {
-  font-weight: 100;
-  font-family: "raleway", sans-serif;
-}
-
-#para2 {
-  font-weight: 300;
-  font-family: "raleway", sans-serif;
-}
-
-#para3 {
-  font-weight: 700;
-  font-family: "raleway", sans-serif;
-}
-
-#para4 {
-  font-weight: 900;
-  font-family: "raleway", sans-serif;
 }
