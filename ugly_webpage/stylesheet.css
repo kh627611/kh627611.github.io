@@ -2,48 +2,33 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,100,300,700,900);
 @import url(https://fonts.googleapis.com/css?family=Clicker+Script);
 
-h1{
+#head {
   font-weight:bold;
   font-family: 'Clicker Script', cursive;
   font-size: 100px;
-  color: lightslategrey;
+  color: olivedrab;
 }
 
-h2 {
-  font-weight: bold;
-  font-family: 'Playfair Display', serif;
-  color: yellowgreen;
-}
-
-body {
-  font-family: "raleway", sans-serif;
-  font-size: 20px;
-  color: lightslategrey;
-}
-
-#Ingredients {
+#para1 {
   width: 23%;
   float: left;
   padding: 15px;
   width: 23%;
   float: left;
   padding: 5px;
+  font-weight:bold;
+  font-family: 'Clicker Script', cursive;
+  font-size: 50px;
+  color: olivedrab;
 }
 
-#Directions {
+#para2 {
   width: 23%;
   float: left;
   padding: 15px;
   width: 23%;
   float: left;
   padding: 5px;
-}
-
-#Footnotes {
-  width: 23%;
-  float: left;
-  padding: 15px;
-  width: 23%;
-  float: left;
-  padding: 5px;
-}
+  font-weight:bold;
+  font-size: 50px;
+  color: AAA639;
