@@ -1,34 +1,250 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,100,300,700,900);
 @import url(https://fonts.googleapis.com/css?family=Clicker+Script);
+@import url(https://fonts.googleapis.com/css?family=Play);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700,500);
+@import url(https://fonts.googleapis.com/css?family=Rock+Salt);
+@import url(https://fonts.googleapis.com/css?family=Candal);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
-#head {
+h1 {
   font-weight:bold;
   font-family: 'Clicker Script', cursive;
   font-size: 100px;
   color: olivedrab;
+  background-color: black;
+  text-decoration: underline;
+  position: static;
+  top: 80px;
+  width: 100%;
+  height: 100px;
+  border: 3px solid #FF8300;
+}
+
+h2 {
+  float: left;
+  width: 100%;
+  position: static;
+  top: 80px;
+  width: 100%;
+  border: 3px solid #E80083;
+  max-width: 100%;
+  line-height: normal;
+}
+
+
+h3 {
+  width: 100%;
+  font-family: 'Play', sans-serif;
+  text-decoration: underline;
+  position: static;
+  left: 80px;
+  border: 3px solid #8AC007;
+}
+
+h4 {
+  font-weight:bold;
+  font-size: 20px;
+  color: olivedrab;
+  border-width: thick;
+  border-color: brown;
+  border-style: solid;
+  background-image: url(http://s302708084.onlinehome.us/wp-content/uploads/2010/01/LewisCarrollWritingBW-e1268093007761.gif);
+  margin: 8%;
+  position: static;
+  right: 120px;
+}
+
+h5 {
+  font-size: 30px;
+}
+
+h6 {
+  font-size: 25px;
+}
+
+h7 {
+  float: left;
+  width: 100%;
+}
+
+h8 {
+  font-weight:bold;
+  font-size: 50px;
+  color: olivedrab;
+  border-width: thick;
+  border-color: brown;
+  border-style: solid;
+}
+
+h9 {
+  font-weight: bold;
+  font-size: 50px;
 }
 
 #para1 {
-  width: 23%;
+  width: 25%;
   float: left;
-  padding: 15px;
-  width: 23%;
-  float: left;
-  padding: 5px;
   font-weight:bold;
   font-family: 'Clicker Script', cursive;
   font-size: 50px;
-  color: olivedrab;
+  color: #00E700;
+  background-color: black;
 }
 
 #para2 {
-  width: 23%;
+  width: 25%;
   float: left;
-  padding: 15px;
-  width: 23%;
   float: left;
-  padding: 5px;
   font-weight:bold;
-  font-size: 50px;
-  color: AAA639;
+  font-size: 25px;
+  color: #FF8300;
+  font-family: 'Rock Salt', cursive;
+  background: brown;
+}
+
+  #para3 {
+    float: left;
+    width: 25%;
+    float: left;
+    font-weight:bold;
+    font-size: 45px;
+    color: #7D2A69;
+    font-family: 'Play', sans-serif;
+    background-color: olivedrab;
+  }
+
+  #para4 {
+    font-size: 65px;
+    color: white;
+    float: left;
+    width: 25%;
+    float: left;
+    color: #E80083;
+    font-family: 'Rock Salt', cursive;
+    font-size: 25px;
+    background-color: #323776;
+    line-height: 220%;
+  }
+
+#para5 {
+  color: brown;
+}
+
+#para6 {
+  color: #323776;
+}
+
+#para7 {
+  color: #00E700;
+  letter-spacing: 8px;
+}
+
+#para8 {
+  color: #582A72;
+}
+
+#para9 {
+  font-family: 'Rock Salt', cursive;
+  color: #FFBF00;
+  line-height: 110%;
+  background-color: black;
+}
+
+#para10 {
+  color: #A5F700;
+  font-family: 'Candal', sans-serif;
+  letter-spacing: 10px;
+  background-color: black;
+}
+
+#para11 {
+  color: #FF8300;
+  font-family: 'Candal', sans-serif;
+  background-color: black;
+}
+
+#para12 {
+  font-family: 'Play', sans-serif;
+  word-spacing: 10px;
+  color: #8D06D8;
+  background-color: black;
+}
+
+#para13 {
+  font-family: 'Clicker Script', cursive;
+  font-size: 40px;
+  color: #64F100;
+  background-color: black;
+}
+
+#para14 {
+  color: #FF1E00;
+  background-color: black;
+}
+
+#para15 {
+  font-family: 'Play', sans-serif;
+  color: #FF8300;
+  background-color: black;
+}
+
+#para16 {
+  font-family: 'Candal', sans-serif;
+  color: #E2009E;
+  background-color: black;
+}
+
+#para17 {
+  font-family: 'Candal', sans-serif;
+  color: #E80083;
+  background-color: black;
+}
+
+#para18 {
+  color: #78286B;
+  background-color: black;
+}
+
+#para19 {
+  font-family: 'Rock Salt', cursive;
+  color: #AA3939;
+}
+
+#para20 {
+  color: #FF8300;
+}
+
+#para21 {
+  color: #E80083;
+}
+
+#para22 {
+  float: left;
+  width: 50%;
+  background-color: brown;
+  color: #FF8300;
+}
+
+#para23 {
+  float: left;
+  width: 50%;
+  background-color: #323776;
+}
+
+#para24 {
+  font-family: 'Ubuntu', sans-serif;
+  color: #323776;
+}
+
+#para25 {
+  font-family: 'Indie Flower', cursive;
+  color: #00E700;
+  word-spacing: 20px;
+}
+
+footer {
+  font-family: 'Ubuntu', sans-serif;
+  color: #323776;
+}
