@@ -8,7 +8,7 @@ h1 {
 
 h2 {
   font-family: 'Work Sans', sans-serif;
-  color: #585663;
+  color: 585663;
 }
 
 body {
@@ -24,13 +24,21 @@ h3 {
   font-family: 'Work Sans', sans-serif;
   color: 585663;
   font-size: small;
+  line-height: 2px;
 }
 
 h4 {
   font-family: 'Work Sans', sans-serif;
+  font-size: 70px;
+}
+
+h5 {
+  font-family: 'Homemade Apple', cursive;
   font-size: large;
 }
 
-img {
-  float: right;
+h6 {
+  font-family: 'Homemade Apple', cursive;
+  line-height: 2px;
+  font-size: 40px;
 }
